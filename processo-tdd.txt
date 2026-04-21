@@ -1,0 +1,9 @@
+O processo TDD (Test-Driven Development) consiste em um ciclo de desenvolvimento baseado em testes.
+
+Primeiro, escrevemos um teste que descreve uma funcionalidade desejada. Esse teste inicialmente falha, pois a funcionalidade ainda não foi implementada.
+
+Em seguida, desenvolvemos o código mínimo necessário para fazer o teste passar.
+
+Depois disso, podemos refatorar o código, melhorando sua estrutura sem alterar seu comportamento, garantindo que os testes continuam passando.
+
+Esse ciclo se repete continuamente: escrever teste, ver falhar, implementar, passar, refatorar.
